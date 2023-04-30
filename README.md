@@ -1,7 +1,7 @@
 # sms
 XLEAD SHOP SMS SENDER (twilio Api)
 How To Run Thes Script
-1/Download XAMPP OR MAMP in Your Desktop
+1/Download XAMPP OR MAMP in Your Desktop 
 2/Paste Thes Code in htdocs
 3/open Config 
 4/ Go To twilio.com And Create Account 
