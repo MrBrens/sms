@@ -1,4 +1,4 @@
-# sms
+# XLEAD SHOP SMS SENDER (twilio Api) 
 XLEAD SHOP SMS SENDER (twilio Api)
 How To Run Thes Script
 1/Download XAMPP OR MAMP in Your Desktop 
