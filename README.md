@@ -11,7 +11,7 @@ $twilio_auth_token = "";
 $twilio_phone_number = "+";
 5/ Update Thes info in file config.php 
 Enjoy Now !
-Thes Scripy Powres By 
+Thes Scripy Powres By
 ================================================================================================================================================
 XLEAD-SHOP is an all-in-one shop. Buy high quality tools, Such as: cPanels-Shells-RDP's-SMTP-Mailers-Leads and more.., buy them all with a single 
 ================================================================================================================================================
